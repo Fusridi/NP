@@ -25,14 +25,15 @@ int calculerNombrePremier(string cheminEnregistrementFichier)
 		recap.seekg(0, ios::end);
 		int position;
 		position = recap.tellg();
-		cout << position << endl;
 		recap.seekg(0, ios::beg);
 		if (position != 0)
 		{
+			float chargement;
 			while (getline(recap, ligne))
 			{
 				nombrePremier.push_back(atoi(ligne.c_str()));
-				cout << atoi(ligne.c_str()) << endl;
+				float chargement = (float)recap.tellg() / (float)position * 100;
+				cout << chargement << "%" << endl;
 			}
 			flux << endl;
 			nombre = nombrePremier[nombrePremier.size() - 1] + 2;

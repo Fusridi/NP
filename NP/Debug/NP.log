@@ -1,4 +1,5 @@
 ﻿  calculerNombrePremier.cpp
 c:\users\administrateur\documents\visual studio 2017\projects\np\np\calculernombrepremier.cpp(27): warning C4244: '=' : conversion de 'std::streamoff' en 'int', perte possible de données
+c:\users\administrateur\documents\visual studio 2017\projects\np\np\calculernombrepremier.cpp(31): warning C4101: 'chargement' : variable locale non référencée
   NP.vcxproj -> C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\NP\Debug\NP.exe
   NP.vcxproj -> C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\NP\Debug\NP.pdb (Partial PDB)
