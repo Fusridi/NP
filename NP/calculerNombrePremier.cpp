@@ -75,5 +75,5 @@ int calculerNombrePremier(string cheminEnregistrementFichier)
 		nombre = nombre + 2;
 	} while (flux);
 	flux.close();
-	return 0;
+return 0;
 }

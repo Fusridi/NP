@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Nombre premier\Nombre premier\calculerNombrePremier.h">
+    <ClInclude Include="calculerNombrePremier.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Nombre premier\Nombre premier\help.h">
+    <ClInclude Include="help.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Nombre premier\Nombre premier\calculerNombrePremier.cpp">
+    <ClCompile Include="calculerNombrePremier.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Nombre premier\Nombre premier\help.cpp">
+    <ClCompile Include="help.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Nombre premier\Nombre premier\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>

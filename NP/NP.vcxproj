@@ -139,13 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Nombre premier\Nombre premier\calculerNombrePremier.h" />
-    <ClInclude Include="..\..\Nombre premier\Nombre premier\help.h" />
+    <ClInclude Include="calculerNombrePremier.h" />
+    <ClInclude Include="help.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Nombre premier\Nombre premier\calculerNombrePremier.cpp" />
-    <ClCompile Include="..\..\Nombre premier\Nombre premier\help.cpp" />
-    <ClCompile Include="..\..\Nombre premier\Nombre premier\main.cpp" />
+    <ClCompile Include="calculerNombrePremier.cpp" />
+    <ClCompile Include="help.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
