@@ -1,0 +1,7 @@
+﻿  main.cpp
+  help.cpp
+  calculerNombrePremier.cpp
+c:\users\administrateur\documents\visual studio 2017\projects\nombre premier\nombre premier\calculernombrepremier.cpp(27): warning C4244: '=' : conversion de 'std::streamoff' en 'int', perte possible de données
+  Génération de code en cours...
+  NP.vcxproj -> C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\NP\Debug\NP.exe
+  NP.vcxproj -> C:\Users\Administrateur\Documents\Visual Studio 2017\Projects\NP\Debug\NP.pdb (Partial PDB)
